@@ -186,7 +186,7 @@ git push origin main
 
 # 👨‍💻 Author
 
-**Nikhil Bhatt**  
+**Akshitha Vallabhaneni**  
 Data Analyst | Full Stack Developer | Machine Learning Enthusiast
 
 ---
