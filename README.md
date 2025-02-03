@@ -184,7 +184,7 @@ git push origin main
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Akshitha Vallabhaneni**  
 Data Analyst
