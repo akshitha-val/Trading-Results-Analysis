@@ -1,4 +1,4 @@
-# 📈 Trading Results Analysis
+# Trading Results Analysis
 
 A Data Analytics project focused on analyzing trading performance, profit/loss trends, trading behavior, and financial insights using Python and data visualization techniques.
 
