@@ -6,7 +6,7 @@ This project performs exploratory data analysis (EDA) on trading datasets to unc
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Financial trading generates large volumes of transactional and performance-related data.  
 This project aims to:
