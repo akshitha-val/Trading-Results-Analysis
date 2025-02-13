@@ -32,7 +32,7 @@ This project aims to:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 - Python
 - Pandas
