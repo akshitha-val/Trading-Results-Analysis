@@ -44,7 +44,7 @@ This project aims to:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 trading-results/
