@@ -57,7 +57,7 @@ trading-results/
 
 ---
 
-# 📊 Analysis Performed
+# Analysis Performed
 
 - Profit and loss trend analysis
 - Trade distribution analysis
