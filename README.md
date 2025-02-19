@@ -69,7 +69,7 @@ trading-results/
 
 ---
 
-# 📈 Visualizations Included
+# Visualizations Included
 
 - Profit/Loss Charts
 - Line Graphs
