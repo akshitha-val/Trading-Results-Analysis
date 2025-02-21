@@ -81,7 +81,7 @@ trading-results/
 
 ---
 
-# 💹 Trading Insights
+# Trading Insights
 
 The project helps in understanding:
 
