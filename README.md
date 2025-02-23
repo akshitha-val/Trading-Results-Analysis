@@ -93,7 +93,7 @@ The project helps in understanding:
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 📥 Clone the Repository
 
