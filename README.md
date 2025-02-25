@@ -95,7 +95,7 @@ The project helps in understanding:
 
 # Installation
 
-## 📥 Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone <repository-url>
