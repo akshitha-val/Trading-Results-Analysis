@@ -103,7 +103,7 @@ git clone <repository-url>
 
 ---
 
-## 📂 Navigate to Project Directory
+## Navigate to Project Directory
 
 ```bash
 cd trading-results
