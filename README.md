@@ -111,7 +111,7 @@ cd trading-results
 
 ---
 
-## 📦 Install Dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
