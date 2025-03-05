@@ -119,11 +119,11 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run Jupyter Notebook
+## Run Jupyter Notebook
 
 ```bash
 jupyter notebook
-```
+``
 
 ---
 
