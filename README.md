@@ -123,11 +123,11 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook
-``
+```
 
 ---
 
-# ▶️ Usage
+# Usage
 
 1. Open the notebook:
    - `Trading Results Analysis.ipynb`
