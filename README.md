@@ -140,7 +140,7 @@ jupyter notebook
 
 ---
 
-# 🌐 Git Commands
+# Git Commands
 
 ## 📌 Check Git Status
 
