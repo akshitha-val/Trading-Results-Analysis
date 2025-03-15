@@ -150,7 +150,7 @@ git status
 
 ---
 
-## ➕ Add Files
+## Add Files
 
 ```bash
 git add .
