@@ -166,7 +166,7 @@ git commit -m "Added Trading Results Analysis project"
 
 ---
 
-## 🚀 Push to GitHub
+## Push to GitHub
 
 ```bash
 git push origin main
