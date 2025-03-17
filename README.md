@@ -174,7 +174,7 @@ git push origin main
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Real-time market data integration
 - Interactive trading dashboard
