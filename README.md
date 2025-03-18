@@ -158,7 +158,7 @@ git add .
 
 ---
 
-## 💾 Commit Changes
+## Commit Changes
 
 ```bash
 git commit -m "Added Trading Results Analysis project"
